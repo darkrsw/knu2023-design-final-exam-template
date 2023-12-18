@@ -1,4 +1,4 @@
-# KNU 2023 Software Design Final Exam: Detecting all types of each member variable
+# KNU 2023 Software Design Final Exam: Detecting all possible types of each member variable
 
 Your submission must satisfy the following requirements:
 
