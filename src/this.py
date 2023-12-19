@@ -3,6 +3,6 @@ class ThisClass:
     member2 = "string"
 
     def func1(self, a, b):
-        print("B:func1")
+        # print("B:func1")
         self.member1 = a
         self.member3 = b
